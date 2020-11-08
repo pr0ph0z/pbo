@@ -1,0 +1,167 @@
+::nomor 1::Apa pernyataan yang salah mengenai Java?
+{
+~Syntaxnya mendekati C++ dan C#
+~Open-source dan gratis
+~Aman, dan cepat
+=Hanya bisa dijalankan di satu platform
+}
+
+::nomor 2::Manakah perintah yang benar untuk memeriksa versi dari JDK yang terpasang?
+{
+~java -v
+~java --v
+~java --version
+=java -version
+}
+
+::nomor 3::Method apa yang dibutuhkan agar program Java bisa dieksekusi?
+{
+~prime
+~major
+~primary
+=main
+}
+
+::nomor 4::Keyword single-line comment di Java menggunakan
+{
+~ <!-- ->
+~ /* */
+~ #
+= //
+}
+
+::nomor 5::Keyword multi-line comment di Java menggunakan
+{
+~ <!-- ->
+= /* */
+~ #
+~ //
+}
+
+::nomor 6::Apa fungsi tanda sama dengan pada variabel?
+{
+~Melakukan penghapusan variabel
+~Melakukan operasi aritmatika
+~Melakukan perbandingan pada variabel
+=Menetapkan nilai pada variabel
+}
+
+::nomor 7::Keyword apa yang disematkan agar variabel tidak bisa diisi kembali?
+{
+~finale
+~finish
+~end
+=final
+}
+
+::nomor 8::Berikut ini adalah aturan yang diperbolehkan untuk menulis variabel, kecuali
+{
+~Diawali dengan underscore
+~Tidak mengandung spasi
+~Mengandung underscore dan simbol dollar
+=Diawali dengan angka
+}
+
+::nomor 9::Tipe data yang hanya bisa menyimpan nilai dari -128 sampai 127 adalah
+{
+~float
+~int
+~short
+=byte
+}
+
+::nomor 10::Operator aritmatika berikut adalah benar, kecuali
+{
+~++
+~--
+~/
+=%%
+}
+
+::nomor 10::Operator bitwise berikut adalah benar, kecuali
+{
+~>>
+~<<
+~>>>
+=^^
+}
+
+::nomor 11::Escape sequence yang valid adalah
+{
+~\c
+~\q
+~\h
+=\b
+}
+
+::nomor 12::Ada berapa ekspresi pada tipe data boolean?
+{
+~1
+~3
+~4
+=2
+}
+
+::nomor 13::Apa alternatif untuk if/else?
+{
+~then
+~while
+~do
+=switch
+}
+
+::nomor 14::Bagaimana cara yanng tepat untuk mendeklarasikan tipe data array?
+{
+~double []array
+~[][]string array
+~[]int array
+=int[] array
+}
+
+::nomor 15::Apa saja tipe data yang bisa digunakan dalam parameter methods?
+{
+~Hanya String saja
+~String, Double, Float
+~String, Boolean, Integer
+=Semua tipe data
+}
+
+::nomor 16::Konsep apa yang coba digunakan di OOP?
+{
+~Liskov
+~Delegation
+~SRP
+=DRY
+}
+
+::nomor 17::Notasi apa yang digunakan untuk mereferensikan ke suatu objek atau method pada class?
+{
+~!
+~=
+~/
+=.
+}
+
+::nomor 18::Manakah yang tidak termasuk ke dalam modifiers?
+{
+~private
+~protected
+~public
+=primitive
+}
+
+::nomor 19::Enkapsulasi terdiri dari dua method, yaitu
+{
+~update dan delete
+~set dan update
+~get dan delete
+=get dan set
+}
+
+::nomor 20::Agar atribut tidak dapat dioverride, maka yang harus dilakukan adalah
+{
+~menambahkan protected
+~menambahkan private
+~menambahkan static
+=menambahkan final
+}
